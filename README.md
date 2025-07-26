@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <strong><em>Resting at the bonfire between builds...</em></strong>
+  <strong><em>Resting at the bonfire between builds....</em></strong>
 </p>
