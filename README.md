@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="assets/42836adf0826dbfa27034fc55566d3a2.gif" width="1000"/>
+  <img src="assets/9gus5pd7tl9z.gif" width="1000"/>
 </p>
 
 <p align="center">
-  <strong><em>Resting at the bonfire between builds....</em></strong>
+  <strong><em>"The flame holds the memory of all code before…"</em></strong><br>
+  <em>— and in its light, the next lines are forged.</em>
 </p>
