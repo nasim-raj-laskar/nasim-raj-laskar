@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/06a85b703ccc50fcc2214bac56214f48.gif" alt="Dark Souls Bonfire" width="680"/>
+  <img src="assets/06a85b703ccc50fcc2214bac56214f48.gif" alt="Dark Souls Bonfire" width="880"/>
 </p>
 
 <p align="center">
