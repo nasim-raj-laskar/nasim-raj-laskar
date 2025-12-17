@@ -7,18 +7,21 @@
 
 ### About Me
 
-I'm Nasim — a final-year IT student driven by **Machine Learning, Deep Learning, and Computer Vision**.  
-My core focus is building models that learn from data, recognize patterns, and make intelligent predictions.
+I'm Nasim — a final-year IT student driven by **Machine Learning, Deep Learning, and MLOps**.  
+I focus on building data-driven models, designing robust ML workflows, and turning experiments into reliable systems.
+
 
 I enjoy working on:
-- 🧠 **ML & DL modeling** — CNNs, image classification, object detection, segmentation  
-- 👁️ **Computer Vision pipelines** — preprocessing, feature extraction, augmentation, inference  
-- 📊 **Experimentation & model optimization** — tuning, evaluation, improving robustness  
+- 🧠 Machine Learning & Deep Learning models across diverse problem domains
+- 🔧 End-to-end ML pipelines — data preprocessing, training, validation, and inference
+- 📊 Experimentation & optimization — tuning, evaluation, and improving model robustness
 
 I also explore the engineering side of ML:
-- 🔧 **MLOps fundamentals** — Dockerization, automated training workflows, CI/CD, experiment tracking  
-- ☁️ **Cloud basics** — AWS (S3, EC2, ECR), orchestrated pipelines  
-These are skills I'm actively developing to take my ML work closer to production.
+- 🔧 MLOps fundamentals — Docker, CI/CD, experiment tracking, automated training
+- ☁️ Cloud basics — AWS (S3, EC2, ECR), orchestrated pipelines
+
+These are skills I'm actively developing to push ML models closer to production.
+
 
 And occasionally:
 - 🔌 **AI-IoT (lightweight models on ESP32/embedded devices)** — bringing small DL models to the edge.
