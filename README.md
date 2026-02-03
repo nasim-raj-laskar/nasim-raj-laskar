@@ -33,17 +33,9 @@ My strength and identity lie primarily in **ML & DL**, supported by evolving MLO
 
 <!-- Core Languages / Frameworks -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,sklearn,opencv,fastapi,flask,git,github,githubactions,docker,kubernetes,aws,prometheus,grafana,jenkins,ubuntu,linux,bash,vscode,arduino,postman,raspberrypi" />
-</p>
-
-### 🧪 ML & MLOps Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" />
-  <img src="https://img.shields.io/badge/DagsHub-F58220?style=for-the-badge&logo=dagshub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,sklearn,opencv,fastapi,flask,git,github,githubactions,docker,kubernetes,aws,prometheus,grafana,jenkins,ubuntu,linux,bash,vscode,anaconda,arduino,postman,raspberrypi" />
+  </a>
 </p>
 
 ---
