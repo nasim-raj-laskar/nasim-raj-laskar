@@ -34,9 +34,11 @@ My strength and identity lie primarily in **ML & DL**, supported by evolving MLO
 <!-- Core Languages / Frameworks -->
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,sklearn,opencv,fastapi,flask,git,github,githubactions,docker,kubernetes,aws,prometheus,grafana,jenkins,ubuntu,linux,bash,vscode,anaconda,arduino,postman,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mysql,sklearn,opencv,fastapi,flask,git,github,githubactions,docker,kubernetes,aws,prometheus,grafana,jenkins,ubuntu,linux,bash,vscode,anaconda,arduino,postman,raspberrypi" />
   </a>
 </p>
+  <!-- Custom icons -->
+
 
 ---
 
