@@ -1,72 +1,62 @@
 <div>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"
+    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=header&reversal=true&theme=tokyonight"
     style="width: 100%; height: auto;" 
   />
 </div>
 
 ### About Me
 
-I'm Nasim — a final-year IT student focused on Machine Learning, Deep Learning, and MLOps.  
+I'm Nasim — a final-year IT student focused on **Machine Learning, Deep Learning, and MLOps**.  
 I build models, design reproducible training pipelines, and work toward deploying reliable ML systems.
 
-
 I enjoy working on:
-- 🧠 Machine Learning & Deep Learning models across diverse problem domains
-- 🔧 End-to-end ML pipelines — data preprocessing, training, validation, and inference
-- 📊 Experimentation & optimization — tuning, evaluation, and improving model robustness
+- 🧠 Machine Learning & Deep Learning across diverse domains  
+- 🔧 End-to-end ML pipelines — preprocessing → training → validation → inference  
+- 📊 Experimentation & optimization — tuning, evaluation, and robustness  
 
 I also explore the engineering side of ML:
-- 🔧 MLOps fundamentals — Docker, CI/CD, experiment tracking, automated training
-- ☁️ Cloud basics — AWS (S3, EC2, ECR), orchestrated pipelines
+- ⚙️ MLOps — Docker, CI/CD, experiment tracking, automated training  
+- ☁️ Cloud fundamentals — AWS (S3, EC2, ECR), orchestrated workflows  
 
-These are skills I'm actively developing to push ML models closer to production.
+Occasionally:
+- 🔌 **AI-IoT (ESP32 / embedded ML)** — bringing lightweight models to the edge  
 
-
-And occasionally:
-- 🔌 **AI-IoT (lightweight models on ESP32/embedded devices)** — bringing small DL models to the edge.
-
-My strength and identity lie primarily in **ML & DL**, supported by evolving MLOps and cloud skills.
+My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skills.
 
 ---
-### 🔧 Tech Stack
 
 ### 🔧 Tech Stack
 
 #### 🧠 Machine Learning
-![](https://skills.syvixor.com/api/icons?perline=15&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter)
+![](https://skills.syvixor.com/api/icons?perline=12&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter)
 
 #### ⚙️ MLOps & Cloud
-![](https://skills.syvixor.com/api/icons?perline=15&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,prometheus,grafana,jenkins)
+![](https://skills.syvixor.com/api/icons?perline=12&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,prometheus,grafana,jenkins)
 
 #### 🌐 Backend & Infrastructure
-![](https://skills.syvixor.com/api/icons?perline=15&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman)
-
+![](https://skills.syvixor.com/api/icons?perline=12&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman)
 
 ---
 
 <p align="center">
-  <img src="assets/06a85b703ccc50fcc2214bac56214f48.gif" alt="Dark Souls Bonfire" width="880"/>
+  <img src="assets/06a85b703ccc50fcc2214bac56214f48.gif" width="880"/>
 </p>
 
-<p align="center">
-  <span style="color:#C0C0C0; font-size:18px; font-family:serif;">
-    <i>"In the vast cathedral of code, each repo is but a flame against the endless night."</i>
-  </span>
-</p>
+<p align="center"><i>
+"In the vast cathedral of code, each repo is but a flame against the endless night."
+</i></p>
 
 ---
-
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph" /> <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="350" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&theme=tokyonight&hide_border=true" height="250"/> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&theme=tokyo-night&area=true" height="350"/>
 </div>
 
 <div>
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"
+    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=true&theme=tokyonight"
     style="width: 100%; height: auto;" 
   />
 </div>
