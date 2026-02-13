@@ -28,14 +28,10 @@ My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skil
 
 ### 🔧 Tech Stack
 
-#### 🧠 Machine Learning
-![](https://skills.syvixor.com/api/icons?perline=12&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter)
+| 🧠 Machine Learning | ⚙️ MLOps & Cloud | 🌐 Backend & Infrastructure |
+|---------------------|------------------|----------------------------|
+| ![](https://skills.syvixor.com/api/icons?perline=5&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter) | ![](https://skills.syvixor.com/api/icons?perline=5&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,prometheus,grafana,jenkins) | ![](https://skills.syvixor.com/api/icons?perline=5&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman) |
 
-#### ⚙️ MLOps & Cloud
-![](https://skills.syvixor.com/api/icons?perline=12&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,prometheus,grafana,jenkins)
-
-#### 🌐 Backend & Infrastructure
-![](https://skills.syvixor.com/api/icons?perline=12&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman)
 
 ---
 
@@ -49,14 +45,4 @@ My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skil
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&theme=tokyonight&hide_border=true" height="250"/> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&theme=tokyo-night&area=true" height="350"/>
-</div>
-
-<div>
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=true&theme=tokyonight"
-    style="width: 100%; height: auto;" 
-  />
-</div>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph" /> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="350" alt="activity-graph graph" /> </div> <div> <img src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" style="width: 100%; height: auto;" /> </div>
