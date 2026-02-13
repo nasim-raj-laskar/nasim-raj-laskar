@@ -31,7 +31,7 @@ My strength and identity lie primarily in **ML & DL**, supported by evolving MLO
 ---
 ### 🔧 Tech Stack
 
-![](https://skills.syvixor.com/api/icons?perline=10&i=python,tensorflow,pytorch,keras,sql,mysql,amazonwebservices,matplotlib,anaconda,scipy,pandas,seaborn,opencv,scikitlearn,pytest,yolo,jupyter,fastapi,streamlit,flask,django,bash,docker,kubernetes,amazons3,terraform,minio,postgresql,dbeaver,postman,git,github,githubactions,airflow,prometheus,grafana,groq,jenkins,kaggle,linux,freecad,steam,raspberrypi,arduino,ubuntu)
+![](https://skills.syvixor.com/api/icons?perline=15&i=python,tensorflow,pytorch,keras,sql,mysql,amazonwebservices,matplotlib,anaconda,scipy,pandas,seaborn,opencv,scikitlearn,pytest,yolo,jupyter,fastapi,streamlit,flask,django,bash,docker,kubernetes,amazons3,terraform,minio,postgresql,dbeaver,postman,git,github,githubactions,airflow,prometheus,grafana,groq,jenkins,kaggle,linux,freecad,steam,raspberrypi,arduino,ubuntu)
 
 
 ---
