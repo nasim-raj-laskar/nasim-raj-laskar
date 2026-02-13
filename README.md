@@ -26,7 +26,6 @@ My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skil
 
 ---
 
-### 🔧 Tech Stack
 
 ### 🔧 Tech Stack
 
