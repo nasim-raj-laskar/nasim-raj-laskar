@@ -7,8 +7,8 @@
 
 ### About Me
 
-I'm Nasim — a final-year IT student driven by **Machine Learning, Deep Learning, and MLOps**.  
-I focus on building data-driven models, designing robust ML workflows, and turning experiments into reliable systems.
+I'm Nasim — a final-year IT student focused on Machine Learning, Deep Learning, and MLOps.  
+I build models, design reproducible training pipelines, and work toward deploying reliable ML systems.
 
 
 I enjoy working on:
@@ -31,7 +31,16 @@ My strength and identity lie primarily in **ML & DL**, supported by evolving MLO
 ---
 ### 🔧 Tech Stack
 
-![](https://skills.syvixor.com/api/icons?perline=15&i=python,tensorflow,pytorch,keras,sql,mysql,amazonwebservices,matplotlib,anaconda,scipy,pandas,seaborn,opencv,scikitlearn,pytest,yolo,jupyter,fastapi,streamlit,flask,django,bash,docker,kubernetes,amazons3,terraform,minio,postgresql,dbeaver,postman,git,github,githubactions,airflow,prometheus,grafana,groq,jenkins,kaggle,linux,freecad,steam,raspberrypi,arduino,ubuntu)
+### 🔧 Tech Stack
+
+#### 🧠 Machine Learning
+![](https://skills.syvixor.com/api/icons?perline=15&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter)
+
+#### ⚙️ MLOps & Cloud
+![](https://skills.syvixor.com/api/icons?perline=15&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,prometheus,grafana,jenkins)
+
+#### 🌐 Backend & Infrastructure
+![](https://skills.syvixor.com/api/icons?perline=15&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman)
 
 
 ---
