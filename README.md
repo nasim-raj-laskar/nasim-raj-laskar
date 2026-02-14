@@ -7,8 +7,7 @@
 
 # 👋 Hi, I'm Nasim
 
-🎓 Final-Year IT Student
-🧠 Machine Learning | Deep Learning | MLOps
+#### 🎓 Final-Year IT Student 🧠 Machine Learning | Deep Learning | MLOps
 
 I design and deploy machine learning systems — not just models.
 
