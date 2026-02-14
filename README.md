@@ -31,7 +31,7 @@ My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skil
 
 | 🧠 Machine Learning | ⚙️ MLOps & Cloud | 🌐 Backend & Infra | 🔌 Edge AI & Hardware |
 |:--:|:--:|:--:|:--:|
-| ![](https://skills.syvixor.com/api/icons?perline=5&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter) | ![](https://skills.syvixor.com/api/icons?perline=5&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,prometheus,grafana,jenkins) | ![](https://skills.syvixor.com/api/icons?perline=5&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman) | ![](https://skills.syvixor.com/api/icons?perline=5&i=raspberrypi,arduino,linux,ubuntu,esp32) |
+| ![](https://skills.syvixor.com/api/icons?perline=5&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter) | ![](https://skills.syvixor.com/api/icons?perline=5&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,mlflow,dagshub,prometheus,grafana,jenkins) | ![](https://skills.syvixor.com/api/icons?perline=5&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman) | ![](https://skills.syvixor.com/api/icons?perline=5&i=micropython,raspberrypi,edgeimpulse,arduino,linux,ubuntu,esp32) |
 
 ---
 
