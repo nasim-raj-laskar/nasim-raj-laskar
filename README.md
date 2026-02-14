@@ -33,15 +33,6 @@ My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skil
 |:--:|:--:|:--:|:--:|
 | ![](https://skills.syvixor.com/api/icons?perline=5&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter) | ![](https://skills.syvixor.com/api/icons?perline=5&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,mlflow,dagshub,prometheus,grafana,jenkins) | ![](https://skills.syvixor.com/api/icons?perline=5&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman) | ![](https://skills.syvixor.com/api/icons?perline=5&i=micropython,raspberrypi,edgeimpulse,arduino,linux,ubuntu,esp32) |
 
----
-
-<p align="center">
-  <img src="assets/06a85b703ccc50fcc2214bac56214f48.gif" width="880"/>
-</p>
-
-<p align="center"><i>
-"In the vast cathedral of code, each repo is but a flame against the endless night."
-</i></p>
 
 ---
 
