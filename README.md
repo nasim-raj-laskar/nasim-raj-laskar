@@ -5,33 +5,73 @@
   />
 </div>
 
-### About Me
+# 👋 Hi, I'm Nasim
 
-I'm Nasim — a final-year IT student focused on **Machine Learning, Deep Learning, and MLOps**.  
-I build models, design reproducible training pipelines, and work toward deploying reliable ML systems.
+🎓 Final-Year IT Student
+🧠 Machine Learning | Deep Learning | MLOps
 
-I enjoy working on:
-- 🧠 Machine Learning & Deep Learning across diverse domains  
-- 🔧 End-to-end ML pipelines — preprocessing → training → validation → inference  
-- 📊 Experimentation & optimization — tuning, evaluation, and robustness  
+I design and deploy machine learning systems — not just models.
 
-I also explore the engineering side of ML:
-- ⚙️ MLOps — Docker, CI/CD, experiment tracking, automated training  
-- ☁️ Cloud fundamentals — AWS (S3, EC2, ECR), orchestrated workflows  
-
-Occasionally:
-- 🔌 **AI-IoT (ESP32 / embedded ML)** — bringing lightweight models to the edge  
-
-My core identity lies in **ML & DL**, supported by evolving MLOps and cloud skills.
+My work focuses on building **reproducible, production-ready ML pipelines**, combining strong modeling fundamentals with engineering discipline. I care about experimentation, robustness, and scalable deployment.
 
 ---
 
+## 🧠 Machine Learning & Deep Learning
 
-### 🔧 Tech Stack
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?perline=10&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter" />
+</p>
 
-| 🧠 Machine Learning | ⚙️ MLOps & Cloud | 🌐 Backend & Infra | 🔌 Edge AI & Hardware |
-|:--:|:--:|:--:|:--:|
-| ![](https://skills.syvixor.com/api/icons?perline=5&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter) | ![](https://skills.syvixor.com/api/icons?perline=5&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,mlflow,dagshub,prometheus,grafana,jenkins) | ![](https://skills.syvixor.com/api/icons?perline=5&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman) | ![](https://skills.syvixor.com/api/icons?perline=5&i=micropython,raspberrypi,edgeimpulse,arduino,linux,ubuntu,esp32) |
+* End-to-end ML workflows: preprocessing → training → validation → inference
+* Model optimization, hyperparameter tuning & evaluation
+* Computer Vision & applied ML research
+* Experiment-driven development
+
+---
+
+## ⚙️ MLOps & Cloud Engineering
+
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?perline=17&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,mlflow,dagshub,prometheus,grafana,jenkins" />
+</p>
+
+* Dockerized ML workflows
+* CI/CD automation for ML pipelines
+* Experiment tracking & model versioning
+* Infrastructure as Code
+* Cloud fundamentals (AWS ecosystem)
+
+---
+
+## 🌐 Backend & Infrastructure
+
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?perline=10&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman" />
+</p>
+
+* ML model serving with FastAPI & Flask
+* Database integration
+* Linux-based development environments
+* Git workflows & automation
+
+---
+
+## 🔌 Edge AI & Embedded ML (Exploration)
+
+<p align="left">
+<img src="https://skills.syvixor.com/api/icons?perline=10&i=micropython,raspberrypi,edgeimpulse,arduino,linux,ubuntu,esp32" />
+</p>
+
+* Lightweight ML deployment on ESP32
+* Embedded experimentation & edge inference
+* Raspberry Pi prototyping
+
+---
+
+## 🎯 Core Focus
+
+> My core identity lies in **Machine Learning & Deep Learning**,
+> strengthened by evolving MLOps and cloud engineering skills.
 
 
 ---
