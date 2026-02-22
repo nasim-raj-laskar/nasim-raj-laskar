@@ -64,7 +64,7 @@ My work focuses on building **reproducible, production-ready ML pipelines**, com
 
 ## 🔌 Edge AI & Embedded ML (Exploration)
 
-<img src="https://skills.syvixor.com/api/icons?perline=10&i=micropython,raspberrypi,edgeimpulse,arduino,linux,ubuntu,esp32" />
+<img src="https://skills.syvixor.com/api/icons?perline=10&i=micropython,raspberrypi,edgeimpulse,arduino,esp32" />
 
 </div>
 
