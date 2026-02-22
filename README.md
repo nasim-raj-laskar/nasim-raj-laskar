@@ -9,7 +9,7 @@
 
 # 👋 Hi, I'm Nasim
 
-#### 🎓 Final-Year IT Student 🧠 Machine Learning | Deep Learning | MLOps
+### 🎓 Final-Year IT Student 🧠 Machine Learning | Deep Learning | MLOps
 
 I design and deploy machine learning systems — not just models.
 
@@ -42,7 +42,7 @@ My work focuses on building **reproducible, production-ready ML pipelines**, com
 
 ## ⚙️ MLOps & Cloud Engineering
 
-<img src="https://skills.syvixor.com/api/icons?perline=17&i=docker,kubernetes,githubactions,airflow,amazonwebservices,amazons3,terraform,minio,mlflow,dagshub,prometheus,grafana,jenkins" />
+<img src="https://skills.syvixor.com/api/icons?perline=17&i=docker,kubernetes,git,githubactions,airflow,bash,linux,amazonwebservices,terraform,mlflow,dagshub,prometheus,grafana" />
 
 </div>
 
@@ -52,26 +52,9 @@ My work focuses on building **reproducible, production-ready ML pipelines**, com
 * CI/CD automation for ML pipelines  
 * Experiment tracking & model versioning  
 * Infrastructure as Code  
-* Cloud fundamentals (AWS ecosystem)  
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Backend & Infrastructure
-
-<img src="https://skills.syvixor.com/api/icons?perline=10&i=fastapi,flask,postgresql,mysql,git,github,linux,bash,postman" />
-
-</div>
-
-<div align="center">
-
-* ML model serving with FastAPI & Flask  
-* Database integration  
+* Cloud fundamentals (AWS ecosystem)
 * Linux-based development environments  
-* Git workflows & automation  
+* Git workflows & automation 
 
 </div>
 
