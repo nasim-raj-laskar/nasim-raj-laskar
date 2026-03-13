@@ -90,9 +90,9 @@ My work focuses on building **reproducible, production-ready ML pipelines**, com
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="250" />
+  <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="249" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="350" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="340" />
 </div>
 
 <div align="center">
