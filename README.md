@@ -70,9 +70,8 @@ My work focuses on building **reproducible, production-ready ML pipelines**, com
 
 <div align="center">
 
-* Lightweight ML deployment on ESP32  
-* Embedded experimentation & edge inference  
-* Raspberry Pi prototyping  
+* Edge ML deployment on ESP32 (TinyML concepts)
+* Real-time inference under resource constraints 
 
 </div>
 
