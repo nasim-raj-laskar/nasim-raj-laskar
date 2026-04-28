@@ -16,7 +16,7 @@
 ##  About Me
 </div>
 
-I am a Final-Year IT student obsessed with the **engineering** side of Artificial Intelligence. While many focus on increasing accuracy by 0.1%, I focus on the infrastructure that allows that model to scale, stay monitored, and remain reproducible.
+I am a Final-Year IT student obsessed with the **engineering** side of Machine Learning. While many focus on increasing accuracy by 0.1%, I focus on the infrastructure that allows that model to scale, stay monitored, and remain reproducible.
 
 - 🚀 **Currently:** Building automated MLOps pipelines and exploring the constraints of TinyML on Edge devices.
 - 🛠️ **Philosophy:** Models are code, but ML systems are living organisms. They need CI/CD, observability, and robust data versioning to survive.
