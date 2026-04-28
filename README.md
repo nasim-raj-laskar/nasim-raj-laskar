@@ -1,102 +1,54 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=header&reversal=true&theme=tokyonight"
-    style="width: 100%; height: auto;" 
-  />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&theme=tokyonight" width="100%"/>
+  
+  # 👋 Hi, I'm Nasim
+  **The bridge between "It works on my machine" and "It works in production."**
 
-<div align="center">
-
-# 👋 Hi, I'm Nasim
-
-### 🎓 Final-Year IT Student 🧠 Machine Learning | Deep Learning | MLOps
-
-I design and deploy machine learning systems — not just models.
-
-My work focuses on building **reproducible, production-ready ML pipelines**, combining strong modeling fundamentals with engineering discipline. I care about experimentation, robustness, and scalable deployment.
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nasimrajlaskar)
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/nasimrl)
 </div>
 
 ---
 
-<div align="center">
+### About Me
+I am a Final-Year IT student obsessed with the **engineering** side of Artificial Intelligence. While many focus on increasing accuracy by 0.1%, I focus on the infrastructure that allows that model to scale, stay monitored, and remain reproducible.
 
-## 🧠 Machine Learning & Deep Learning
-
-<img src="https://skills.syvixor.com/api/icons?perline=10&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter" />
-
-</div>
-
-<div align="center">
-
-* End-to-end ML workflows: preprocessing → training → validation → inference  
-* Model optimization, hyperparameter tuning & evaluation  
-* Computer Vision & applied ML research  
-* Experiment-driven development  
-
-</div>
+- 🚀 **Currently:** Building automated MLOps pipelines and exploring the constraints of TinyML on Edge devices.
+- 🛠️ **Philosophy:** Models are code, but ML systems are living organisms. They need CI/CD, observability, and robust data versioning to survive.
+- 🔭 **Goal:** To eliminate the friction between data science research and real-world deployment.
 
 ---
 
-<div align="center">
+### Tech Stack & Specialized Skills
 
-## ⚙️ MLOps & Cloud Engineering
+#### 🧠 Machine Learning & Deep Learning
+<img src="https://skills.syvixor.com/api/icons?perline=12&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter" />
 
-<img src="https://skills.syvixor.com/api/icons?perline=17&i=docker,kubernetes,git,githubactions,airflow,bash,linux,amazonwebservices,terraform,mlflow,dagshub,prometheus,grafana" />
+#### ⚙️ MLOps & Cloud Engineering
+<img src="https://skills.syvixor.com/api/icons?perline=12&i=docker,kubernetes,git,githubactions,airflow,bash,linux,amazonwebservices,terraform,mlflow,dagshub,prometheus,grafana" />
 
-</div>
-
-<div align="center">
-
-* Dockerized ML workflows  
-* CI/CD automation for ML pipelines  
-* Experiment tracking & model versioning  
-* Infrastructure as Code  
-* Cloud fundamentals (AWS ecosystem)
-* Linux-based development environments  
-* Git workflows & automation 
-
-</div>
+#### 🔌 Edge AI & Embedded Systems
+<img src="https://skills.syvixor.com/api/icons?perline=12&i=micropython,raspberrypi,edgeimpulse,arduino,esp32" />
 
 ---
 
+### Vital Signs & Activity
 <div align="center">
-
-## 🔌 Edge AI & Embedded ML (Exploration)
-
-<img src="https://skills.syvixor.com/api/icons?perline=10&i=micropython,raspberrypi,edgeimpulse,arduino,esp32" />
-
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&theme=tokyonight&hide_border=true" width="100%"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=nasim-raj-laskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-
-* Edge ML deployment on ESP32 (TinyML concepts)
-* Real-time inference under resource constraints 
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Core Focus
-
-> My core identity lies in **Machine Learning & Deep Learning**,  
-> strengthened by evolving MLOps and cloud engineering skills.
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="249" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="340" />
-</div>
-
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"
-    style="width: 100%; height: auto;" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&theme=tokyonight" width="100%"/>
 </div>
