@@ -6,7 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasim-raj-laskar-566a132b8/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nasimrajlaskar)
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/nasimrl)
+[![DagsHub](https://img.shields.io/badge/DagsHub-00BFA6?style=for-the-badge)](https://dagshub.com/nasim-raj-laskar)
 </div>
 
 ---
