@@ -6,6 +6,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasim-raj-laskar-566a132b8/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nasimrajlaskar)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-0A66C2?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/nasim435)
 [![DagsHub](https://img.shields.io/badge/DagsHub-00BFA6?style=for-the-badge)](https://dagshub.com/nasim-raj-laskar)
 </div>
 
