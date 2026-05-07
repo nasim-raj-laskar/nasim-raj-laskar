@@ -48,8 +48,7 @@ I am a Final-Year IT student obsessed with the **engineering** side of Machine L
 
 ## Vital Signs & Activity
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nasim-raj-laskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nasim-raj-laskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%" /> -->
 <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
