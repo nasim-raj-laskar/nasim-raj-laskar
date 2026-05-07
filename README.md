@@ -46,20 +46,13 @@ I am a Final-Year IT student obsessed with the **engineering** side of Machine L
 
 <div align="center">
 
-##  Vital Signs & Activity
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&theme=tokyonight&hide_border=true" width="100%"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=nasim-raj-laskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+## Vital Signs & Activity
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nasim-raj-laskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=nasim-raj-laskar&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nasim-raj-laskar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
