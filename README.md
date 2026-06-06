@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&theme=tokyonight" width="100%"/>
   
   <h1>👋 Hi, I'm Nasim</h1>
-  <p><b>The bridge between "It works on my machine" and "It works in production."</b></p>
+  <p><i>ML Engineer</i></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasim-raj-laskar-566a132b8/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nasimrajlaskar)
