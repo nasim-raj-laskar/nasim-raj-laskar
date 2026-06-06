@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=true&theme=tokyonight" width="100%"/>
   
   <h1>👋 Hi, I'm Nasim</h1>
-  <p><i>ML Engineer</i></p>
+  <p><i>ML Systems & GenAI Engineer</i></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasim-raj-laskar-566a132b8/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nasimrajlaskar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasim-raj-laskar-566a132b8/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/nasimrajlaskar)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-0A66C2?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/nasim435)
 [![DagsHub](https://img.shields.io/badge/DagsHub-00BFA6?style=for-the-badge)](https://dagshub.com/nasim-raj-laskar)
 </div>
@@ -17,11 +17,11 @@
 ##  About Me
 </div>
 
-I am a Final-Year IT student obsessed with the **engineering** side of Machine Learning. While many focus on increasing accuracy by 0.1%, I focus on the infrastructure that allows that model to scale, stay monitored, and remain reproducible.
+I’m a Final-Year IT student focused on the engineering side of AI and Machine Learning — building scalable, reproducible, and production-ready ML systems. My interests span MLOps, LLMOps, model serving, observability, and Generative AI infrastructure.
 
-- 🚀 **Currently:** Building automated MLOps pipelines and exploring the constraints of TinyML on Edge devices.
-- 🛠️ **Philosophy:** Models are code, but ML systems are living organisms. They need CI/CD, observability, and robust data versioning to survive.
-- 🔭 **Goal:** To eliminate the friction between data science research and real-world deployment.
+* 🚀 **Currently:** Building automated MLOps and LLMOps pipelines while exploring modern Generative AI systems and inference workflows.
+* 🛠️ **Philosophy:** Great models are only part of the equation. Reliable AI systems require robust infrastructure, CI/CD, observability, monitoring, and reproducible workflows.
+* 🔭 **Goal:** To bridge the gap between AI research and real-world deployment by building efficient, scalable, and maintainable AI systems.
 
 
 
@@ -31,14 +31,11 @@ I am a Final-Year IT student obsessed with the **engineering** side of Machine L
 
 ##  Tech Stack & Specialized Skills
 
-#### 🧠 Machine Learning & Deep Learning
-<img src="https://skills.syvixor.com/api/icons?perline=12&i=python,pytorch,tensorflow,scikitlearn,opencv,yolo,pandas,matplotlib,seaborn,jupyter" />
+#### 🧠 Machine Learning & AI
+<img src="https://skills.syvixor.com/api/icons?perline=12&i=python,pytorch,tensorflow,scikitlearn,huggingface" />
 
-#### ⚙️ MLOps & Cloud Engineering
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=docker,kubernetes,git,githubactions,airflow,bash,linux,amazonwebservices,terraform,mlflow,dagshub,prometheus,grafana" />
-
-#### 🔌 Edge AI & Embedded Systems
-<img src="https://skills.syvixor.com/api/icons?perline=12&i=micropython,raspberrypi,edgeimpulse,arduino,esp32" />
+#### ⚙️ MLOps & LLMOps
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=docker,fastapi,githubactions,airflow,bash,amazonwebservices,langchain,mlflow,prometheus,grafana" />
 
 </div>
 
